@@ -1,8 +1,8 @@
 ﻿# servo-vision-control
 
-Interfaz grÃ¡fica en Python para **controlar un servomotor usando visiÃ³n artificial**. La cÃ¡mara detecta un objeto por color (HSV), calcula el error respecto al centro de la imagen y un controlador (On-Off, P, PI o PID) decide el Ã¡ngulo del servo, que se envÃ­a por puerto serial a un microcontrolador PIC.
+Interfaz grafica en Python para **controlar un servomotor usando visión artificial**. La cÃ¡mara detecta un objeto por color (HSV), calcula el error respecto al centro de la imagen y un controlador (On-Off, P, PI o PID) decide el Angulo del servo, que se envi­a por puerto serial a un microcontrolador PIC.
 
-Proyecto didÃ¡ctico para la unidad **"Desarrollo de aplicaciones de control de procesos utilizando sistemas embebidos"** (lazo abierto/cerrado, On-Off, P, PI, PID).
+Proyecto didactico para la unidad **"Desarrollo de aplicaciones de control de procesos utilizando sistemas embebidos"** (lazo abierto/cerrado, On-Off, P, PI, PID).
 
 > Firmware del PIC: [servo-pic-firmware](https://github.com/arturomeneses100/servo-pic-firmware)
 
