@@ -53,7 +53,7 @@ Si se pierde el objetivo, el servomotor mantiene su última posición.
 Requiere Python 3.9 o superior.
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/arturomeneses100/servo-vision-control.git
 cd servo-vision-control
 python -m venv .venv
 
@@ -108,8 +108,9 @@ python servo_vision.py
 
 ```text
 servo-vision-control/
-├── servo_vision.py     # Interfaz gráfica, visión artificial y control
+├── servo_vision.py    # Interfaz gráfica, visión artificial y control
 ├── requirements.txt   # Dependencias del proyecto
+├── LICENSE            # Licencia MIT
 └── README.md          # Documentación del proyecto
 ```
 
@@ -117,3 +118,7 @@ servo-vision-control/
 
 **Arturo Elfego Meneses Flores**  
 Universidad Tecnológica de la Huasteca Hidalguense (UTHH)
+
+## Licencia
+
+[MIT](LICENSE) © 2026 Arturo Elfego Meneses Flores — DUAL ARD / UTHH.
